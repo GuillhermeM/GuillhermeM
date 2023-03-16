@@ -15,3 +15,11 @@
   
 </div>
 
+## My Statistics
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OrionTH1&show_icons=true&count_private=true&hide_border=true&title_color=1498FF&icon_color=F7D746&text_color=c9d1d9&bg_color=0d1117" alt="OrionTH1 Github Stats" /> 
+
+  <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=OrionTH1&hide_border=true&fire=F6D645&ring=0A93FF&background=0D1117&dates=C1C1C1&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=F6D645&currStreakLabel=FFFFFF&sideLabels=FFFFFF" aly="GuillhermeM Github Current Streak"/> 
+</div>
+
+<br>
